@@ -6,9 +6,38 @@
     <description>Recent content on SecureIQLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 04 Nov 2019 21:28:07 -0500</lastBuildDate>
     
 	<atom:link href="https://secureiqlab.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Contact</title>
+      <link>https://secureiqlab.github.io/contact/</link>
+      <pubDate>Mon, 04 Nov 2019 21:28:07 -0500</pubDate>
+      
+      <guid>https://secureiqlab.github.io/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Services</title>
+      <link>https://secureiqlab.github.io/services/</link>
+      <pubDate>Mon, 04 Nov 2019 21:27:59 -0500</pubDate>
+      
+      <guid>https://secureiqlab.github.io/services/</guid>
+      <description>We handle the following services and cover. </description>
+    </item>
+    
+    <item>
+      <title>Whyus</title>
+      <link>https://secureiqlab.github.io/whyus/</link>
+      <pubDate>Mon, 04 Nov 2019 21:27:49 -0500</pubDate>
+      
+      <guid>https://secureiqlab.github.io/whyus/</guid>
+      <description> People  25+ of combined security experience 15+ years of combined 3rd Party market/technology/solution validation experience 10+ years of combined product and technology strategy from “Conception” to “Launch” Stages  Market Know-how  Market Overview TAM, CAGR, 1-to-3 year projections Market Direction Growth Cycle Enterprise Adoption SMB, Low SME&amp;hellip;&amp;hellip;F500
+ Enterprise Value Vendor Landscape Top, medium and small market players and MVP list Enterprise use cases vs vendor product features/capabilities  Technology Expertise  Methodology and test case creation End-to-end technology stack know how IT vs SysOps vs DevOps centric focus CISO/CIO focused briefs  </description>
+    </item>
     
   </channel>
 </rss>
