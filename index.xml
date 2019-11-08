@@ -21,22 +21,41 @@
     </item>
     
     <item>
+      <title>Our Methodology Lifecycle</title>
+      <link>https://secureiqlab.github.io/works/</link>
+      <pubDate>Mon, 04 Nov 2019 21:27:59 -0500</pubDate>
+      
+      <guid>https://secureiqlab.github.io/works/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Services</title>
       <link>https://secureiqlab.github.io/services/</link>
       <pubDate>Mon, 04 Nov 2019 21:27:59 -0500</pubDate>
       
       <guid>https://secureiqlab.github.io/services/</guid>
-      <description>We handle the following services and cover. </description>
+      <description>Custom cybersecurity solution validation Validation services tailored to what enterprises want to highlight and focus on. Unlike other testing/ research / analyst firms, our evaluations are built on data gathered hands-on in a lab. Our Validation metrics can be either be based out of a single product/solution or competitive; evaluating a single product or solution or offering, or multiple offerings spread across several competitors.
+SecureIQLab engineers and analysts work with enterprises and security vendors to develop a test plan specific to their business requirements and use-cases, then carry out the evaluation either in our lab facility in Austin, TX or our partner lab site, or any combination thereof.</description>
     </item>
     
     <item>
-      <title>Whyus</title>
+      <title>About Us</title>
+      <link>https://secureiqlab.github.io/aboutus/</link>
+      <pubDate>Mon, 04 Nov 2019 21:27:49 -0500</pubDate>
+      
+      <guid>https://secureiqlab.github.io/aboutus/</guid>
+      <description>SecureIQLab is a US-based independent, third-party cybersecurity solution validation and advisory service provider. SecureIQLab specializes in assessing and validating a multitude of cyber threat-facing cybersecurity solutions that aim to defend enterprise IT systems and applications from attacks through prevention, detection and effective response.
+The enterprise use-case validation criteria and models were developed over years of experience working with several Analyst and testing firms, Fortune-500 enterprises and multiple security technology/solution vendors. These enterprise specific use-case metrics helps bridge the “Cyber-Gap” exposure for them by reducing their operational risk through effective validation of their security controls.</description>
+    </item>
+    
+    <item>
+      <title>Why Us ?</title>
       <link>https://secureiqlab.github.io/whyus/</link>
       <pubDate>Mon, 04 Nov 2019 21:27:49 -0500</pubDate>
       
       <guid>https://secureiqlab.github.io/whyus/</guid>
-      <description> People  25+ of combined security experience 15+ years of combined 3rd Party market/technology/solution validation experience 10+ years of combined product and technology strategy from “Conception” to “Launch” Stages  Market Know-how  Market Overview TAM, CAGR, 1-to-3 year projections Market Direction Growth Cycle Enterprise Adoption SMB, Low SME&amp;hellip;&amp;hellip;F500
- Enterprise Value Vendor Landscape Top, medium and small market players and MVP list Enterprise use cases vs vendor product features/capabilities  Technology Expertise  Methodology and test case creation End-to-end technology stack know how IT vs SysOps vs DevOps centric focus CISO/CIO focused briefs  </description>
+      <description>Dependability in the face of Insecurity  Major Analyst firm’s plagued by subjective opinion and no empirical data Major testing organizations DO NOT FOCUS on Enterprise specific use-cases that matter – Test Metrics with NO Operational Risk Metrics factored in. Key enterprise Security solutions/technology ecosystem ‘NOT’ looked into. No Relevant Mapping of Enterprise “Use-cases” to Analyst/testing firms “Test-cases”  People  25+ of combined security experience 15+ years of combined 3rd Party market/technology/solution validation experience 10+ years of combined product and technology strategy from “Conception” to “Launch” Stages  Market Know-how  Market Overview TAM, CAGR, 1-to-3 year projections Market Direction Growth Cycle Enterprise Adoption SMB, Low SME&amp;hellip;&amp;hellip;F500</description>
     </item>
     
   </channel>
